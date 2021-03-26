@@ -14,9 +14,9 @@
 
 법 조문에 빈칸을 낸 모습 
 ~~~~~~~~~~~~~~~~~~~~~
-..image:: https://github.com/dalyulbam-cmd/Pattent_attorney/blob/master/Sample_Image/Today's%20Problem%20Contents.png
-
+.. image:: https://github.com/dalyulbam-cmd/Pattent_attorney/blob/master/Sample_Image/Today's%20Problem%20Contents.png
+  :width: 800
 
 Today's Problem 파일은 시,분,초를 제목에 포함시킵니다. 
 ~~~~~~~~~~~~~~~~~~~~~
-..image:: 
+.. image:: 
