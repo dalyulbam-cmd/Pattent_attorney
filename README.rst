@@ -11,3 +11,12 @@
 판례 문제와 법조문 문제 모두 가능합니다.  
 
 다만, 정해진 양식에 따라 작성된 워드 파일만을 읽을 수 있습니다. 
+
+법 조문에 빈칸을 낸 모습 
+~~~~~~~~~~~~~~~~~~~~~
+..image:: https://github.com/dalyulbam-cmd/Pattent_attorney/blob/master/Sample_Image/Today's%20Problem%20Contents.png
+
+
+Today's Problem 파일은 시,분,초를 제목에 포함시킵니다. 
+~~~~~~~~~~~~~~~~~~~~~
+..image:: 
